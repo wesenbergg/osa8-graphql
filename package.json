@@ -1,0 +1,28 @@
+{
+  "name": "osa8-graphql",
+  "version": "1.0.0",
+  "description": "graphql alkeet",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesenbergg/osa8-graphql.git"
+  },
+  "keywords": [
+    "graphql",
+    "tutorial"
+  ],
+  "author": "boriss jerjomkin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wesenbergg/osa8-graphql/issues"
+  },
+  "homepage": "https://github.com/wesenbergg/osa8-graphql#readme",
+  "dependencies": {
+    "apollo-server": "^2.9.14",
+    "graphql": "^14.5.8"
+  }
+}
